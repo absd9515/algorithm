@@ -1,0 +1,13 @@
+C:\Users\82103\Desktop\baekjoon\bin\Debug\netcoreapp3.1\baekjoon.exe
+C:\Users\82103\Desktop\baekjoon\bin\Debug\netcoreapp3.1\baekjoon.deps.json
+C:\Users\82103\Desktop\baekjoon\bin\Debug\netcoreapp3.1\baekjoon.runtimeconfig.json
+C:\Users\82103\Desktop\baekjoon\bin\Debug\netcoreapp3.1\baekjoon.runtimeconfig.dev.json
+C:\Users\82103\Desktop\baekjoon\bin\Debug\netcoreapp3.1\baekjoon.dll
+C:\Users\82103\Desktop\baekjoon\bin\Debug\netcoreapp3.1\baekjoon.pdb
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.AssemblyInfoInputs.cache
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.AssemblyInfo.cs
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.csproj.CoreCompileInputs.cache
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.dll
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.pdb
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.genruntimeconfig.cache
