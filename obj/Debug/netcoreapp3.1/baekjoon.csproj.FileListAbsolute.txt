@@ -11,3 +11,4 @@ C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.csproj.CoreComp
 C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.dll
 C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.pdb
 C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.genruntimeconfig.cache
+C:\Users\82103\Desktop\baekjoon\obj\Debug\netcoreapp3.1\baekjoon.csproj.AssemblyReference.cache
